@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaomarr
-- 👀 I’m interested in studying by now
+- 👀 I’m interested in studying currently
 - 🌱 I’m currently learning front-end, in terms of language, javascript
 - 💞️ I’m looking to collaborate on enterprises
 - 📫 How to reach me = marrajoaosa@gmail.com
