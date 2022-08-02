@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @joaomarr
-- 👀 I’m interested Web development
-- 🌱 I’m currently learning front-end, in terms of language, javascript
-- 💞️ I’m looking to collaborate on enterprises
 - 📫 How to reach me = marrajoaosa@gmail.com
 
 <div align="center">
